@@ -1,0 +1,7 @@
+br\senac\tads\dsw\exemplo3\repository\AvaliacaoRepository.class
+br\senac\tads\dsw\exemplo3\controller\AvaliacaoController.class
+br\senac\tads\dsw\exemplo3\model\Avaliacao.class
+br\senac\tads\dsw\exemplo3\Exemplo3SpringBootTurmaCApplication.class
+br\senac\tads\dsw\exemplo3\repository\ProdutoRepository.class
+br\senac\tads\dsw\exemplo3\controller\ProdutoController.class
+br\senac\tads\dsw\exemplo3\model\Produto.class
